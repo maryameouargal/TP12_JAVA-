@@ -1,0 +1,4 @@
+ Rapport des employés
+Nom: Rina, Âge: 27, Poste: Engineer
+Nom: Marcus, Âge: 24, Poste: Manager
+Fin du rapport.

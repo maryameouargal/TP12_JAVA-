@@ -1,0 +1,3 @@
+Rina,27,Engineer
+Marcus ,24,Manager
+Preston,18,Designer
